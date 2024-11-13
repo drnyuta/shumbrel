@@ -18,8 +18,8 @@ const Inbox = () => {
     >
       <Text
         style={{
-          fontSize: 24,
-          fontFamily: "Inter",
+          fontSize: 20,
+          fontFamily: "Inter-Regular",
           textAlign: "center",
           marginBottom: 10,
         }}
@@ -35,4 +35,4 @@ const Inbox = () => {
   );
 };
 
-export default Inbox;
+export default Inbox; 
