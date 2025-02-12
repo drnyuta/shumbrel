@@ -4,13 +4,13 @@ import { View, Text, TouchableOpacity } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Link } from "expo-router";
 
-import Logo from "../../assets/images/Logo-blue.svg";
-import Avatar from "../../assets/images/duckAvatar.svg";
-import AccountIcon from "../../assets/icons/account.svg";
-import LanguageIcon from "../../assets/icons/language.svg";
-import SunIcon from "../../assets/icons/sun.svg";
-import MoonIcon from "../../assets/icons/moon.svg";
-import LogoutIcon from "../../assets/icons/log-out.svg";
+import Logo from "../../../assets/images/Logo-blue.svg";
+import Avatar from "../../../assets/images/duckAvatar.svg";
+import AccountIcon from "../../../assets/icons/account.svg";
+import LanguageIcon from "../../../assets/icons/language.svg";
+import SunIcon from "../../../assets/icons/sun.svg";
+import MoonIcon from "../../../assets/icons/moon.svg";
+import LogoutIcon from "../../../assets/icons/log-out.svg";
 
 const Account = () => {
   const isAuthorized = true;

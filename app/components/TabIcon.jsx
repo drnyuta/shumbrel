@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 
 const TabIcon = ({ name, focused, icon: IconComponent, size, mt }) => {
   return (
-    <View style={{ alignItems: "center", justifyContent: "center" }}>
+    <View style={{ alignItems: "center", justifyContent: "center", width: 100 }}>
       <IconComponent width={size} height={size} marginTop={20}/>
       <Text
         style={{

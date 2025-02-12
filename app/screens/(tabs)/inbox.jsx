@@ -1,5 +1,5 @@
 import { View, Text } from "react-native";
-import InboxIcon from "../../assets/icons/inbox.svg";
+import InboxIcon from "../../../assets/icons/inbox.svg";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 const Inbox = () => {

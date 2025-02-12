@@ -1,6 +1,6 @@
 import { Tabs } from "expo-router";
-import icons from "../../assets/icons";
-import TabIcon from "../components/TabIcon";
+import icons from "../../../assets/icons";
+import TabIcon from "../../components/TabIcon";
 
 const TabsLayout = () => {
   return (
